@@ -1,10 +1,10 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.2.6.5",
-  "packageFile": "fnos-file-manager.mcbbc-0.2.6.5.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.2.6.5/fnos-file-manager.mcbbc-0.2.6.5.fpk",
-  "releaseTag": "v0.2.6.5",
+  "version": "0.2.6.6",
+  "packageFile": "fnos-file-manager.mcbbc-0.2.6.6.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.2.6.6/fnos-file-manager.mcbbc-0.2.6.6.fpk",
+  "releaseTag": "v0.2.6.6",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-05-22T07:48:30.068Z"
+  "releasedAt": "2026-05-22T07:51:56.273Z"
 }
