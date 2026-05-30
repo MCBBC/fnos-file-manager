@@ -1,10 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.3.5.2",
-  "packageFile": "fnos-file-manager.mcbbc-0.3.5.2.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.3.5.2/fnos-file-manager.mcbbc-0.3.5.2.fpk",
-  "releaseTag": "v0.3.5.2",
+  "version": "0.3.5.3",
+  "packageFile": "fnos-file-manager.mcbbc-0.3.5.3.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.3.5.3/fnos-file-manager.mcbbc-0.3.5.3.fpk",
+  "releaseTag": "v0.3.5.3",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-05-30T18:38:56.339Z"
+  "releasedAt": "2026-05-30T18:48:00.576Z",
+  "releaseNotes": "- 更新日志改用 changelog.json 维护并同步至 GitHub 与 version.json"
 }
