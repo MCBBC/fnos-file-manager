@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.3.7.8",
-  "packageFile": "fnos-file-manager.mcbbc-0.3.7.8.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.3.7.8/fnos-file-manager.mcbbc-0.3.7.8.fpk",
-  "releaseTag": "v0.3.7.8",
+  "version": "0.3.9.3",
+  "packageFile": "fnos-file-manager.mcbbc-0.3.9.3.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.3.9.3/fnos-file-manager.mcbbc-0.3.9.3.fpk",
+  "releaseTag": "v0.3.9.3",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-05-31T09:10:41.493Z",
-  "releaseNotes": "- 修复了文件夹显示问题\n- 修复了媒体库不显示缩略图BUG\n- 修复了部分UI错位问题\n- 优化了我的文件，外链分享，远程挂载UI界面\n- 优化了右键菜单"
+  "releasedAt": "2026-05-31T15:33:16.209Z",
+  "releaseNotes": "- 优化了一些问题，提高了稳定性"
 }
