@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.3.9.4",
-  "packageFile": "fnos-file-manager.mcbbc-0.3.9.4.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.3.9.4/fnos-file-manager.mcbbc-0.3.9.4.fpk",
-  "releaseTag": "v0.3.9.4",
+  "version": "0.3.9.6",
+  "packageFile": "fnos-file-manager.mcbbc-0.3.9.6.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.3.9.6/fnos-file-manager.mcbbc-0.3.9.6.fpk",
+  "releaseTag": "v0.3.9.6",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-01T00:04:30.090Z",
-  "releaseNotes": "- 移除了终端的自定义右键，防止无法复制粘贴内容"
+  "releasedAt": "2026-06-01T00:44:41.805Z",
+  "releaseNotes": "- 移除飞牛登录页壁纸功能；壁纸 WebSocket 仅在非登录页连接，注销或进入 /login 时自动断开"
 }
