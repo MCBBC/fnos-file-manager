@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.4.3.2",
-  "packageFile": "fnos-file-manager.mcbbc-0.4.3.2.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.3.2/fnos-file-manager.mcbbc-0.4.3.2.fpk",
-  "releaseTag": "v0.4.3.2",
+  "version": "0.4.3.7",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.3.7.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.3.7/fnos-file-manager.mcbbc-0.4.3.7.fpk",
+  "releaseTag": "v0.4.3.7",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-01T15:54:32.394Z",
-  "releaseNotes": "- 上传整文件直传，单文件上限 16GB；小文件最多 5 路并发、大文件 1 路优先，避免浏览器连接占满导致请求挂起\n- 大文件（>32MB）分片直写目标路径，取消二次合并拷贝；传输结束后显示「正在写入存储」\n- 移入回收站、还原、普通删除、彻底删除支持 3–8 路并行处理（按选中数量动态调整）\n- 修复部分路径/文件名导致误报「无写入权限」；规范化上传文件名与相对路径\n- 上传进度显示本次任务已上传大小 / 总大小（多文件合计）\n- 修复删除确认框中长文件名导致出现横向滚动条的问题\n- 壁纸与 WebSocket 监听断线后每 3 秒重连一次\n- 侧栏「已固定」与用户固定文件夹单独分组；超过 2 项默认折叠（折叠后全部隐藏），可展开并记住状态\n- 上传：目标路径已存在且大小一致则跳过；大文件分片支持断点续传（保留未完成进度，重试时只传缺失分片）\n- 后台任务与进度弹窗中长文件名省略显示，确保上传进度与字节数可见\n- 优化大文件分片上传：分片 16MB、2 路并行，断点 sidecar 改为异步节流写入，缓解越传越慢\n- 上传确认弹窗新增同名文件处理：覆盖 / 重命名 / 跳过（左中右单选，默认重命名）\n- 彻底删除与大文件删除改为按字节统计进度，显示当前文件名与已删大小；修复进度轮询失败时弹窗提前关闭"
+  "releasedAt": "2026-06-01T17:06:37.223Z",
+  "releaseNotes": "- 修复压缩/解压进度误显示为「8 B / 100 B」\n- 快速压缩改为存储/Copy 模式（zip/tar.gz/7z/rar）\n- 压缩进度按已处理源文件字节线性统计，快速/标准模式均预计算大小；修复进度条与字节数不自动刷新\n- 修复文件夹属性「计算大小」进度条长时间停在 8% 不增长的问题\n- 修复 fs.jobs.get 被 WebSocket 响应缓存导致任务进度只轮询一次、进度条不刷新的问题\n- 提高压缩/解压任务进度更新频率（服务端约 80ms、客户端轮询约 100ms）\n- 多选文件/文件夹右键属性显示全部所选项目，并支持计算所选总大小（含文件与文件夹）"
 }
