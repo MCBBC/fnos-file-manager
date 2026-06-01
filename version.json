@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.3.9.9",
-  "packageFile": "fnos-file-manager.mcbbc-0.3.9.9.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.3.9.9/fnos-file-manager.mcbbc-0.3.9.9.fpk",
-  "releaseTag": "v0.3.9.9",
+  "version": "0.4.0.4",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.0.4.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.0.4/fnos-file-manager.mcbbc-0.4.0.4.fpk",
+  "releaseTag": "v0.4.0.4",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-01T00:57:39.707Z",
-  "releaseNotes": "- 移除了端口监听，全部使用统一网关服务"
+  "releasedAt": "2026-06-01T01:19:54.367Z",
+  "releaseNotes": "- 优化了一些问题，提高了稳定性"
 }
