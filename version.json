@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.4.3.9",
-  "packageFile": "fnos-file-manager.mcbbc-0.4.3.9.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.3.9/fnos-file-manager.mcbbc-0.4.3.9.fpk",
-  "releaseTag": "v0.4.3.9",
+  "version": "0.4.4.1",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.4.1.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.4.1/fnos-file-manager.mcbbc-0.4.4.1.fpk",
+  "releaseTag": "v0.4.4.1",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-01T18:32:26.915Z",
-  "releaseNotes": "- 修复快速切换目录/标签/后退时列表或搜索结果可能错乱（浏览与搜索请求竞态、搜索结果绑定标签页）\n- 修复后台任务模式下剪切粘贴失败后剪贴板被提前清空的问题\n- 修复搜索框/地址栏聚焦时 Delete、F2、Ctrl+C/X/V 误触发文件操作；Enter 可在普通目录打开选中项\n- 修复删除/移动/重命名后选中状态未清除；Shift 范围选择锚点与 Windows 资源管理器对齐\n- 回收站与搜索视图下禁用上传/新建/粘贴/剪切，右键菜单与 Ribbon 规则一致\n- 地址栏未改路径时 blur 不再重复导航；视图模式仅影响当前标签；拖放移动恢复确认框"
+  "releasedAt": "2026-06-01T19:48:28.966Z",
+  "releaseNotes": "- 右键菜单模拟器启动项收至「模拟器」二级子菜单，可在设置中单独调整顺序\n- 搜索当前文件夹新增搜索按钮与加载反馈（按钮动画、列表骨架屏、状态栏文案）；服务端搜索异步递归并定期让出事件循环，大目录不易长时间无响应\n- 模拟器设置页「EmulatorJS GitHub Releases」改为可点击链接，指向 https://github.com/EmulatorJS/EmulatorJS/releases\n- 设置 SSH 终端未登录或未就绪时显示登录占位，修复未登录状态下设置页样式错乱\n- SSH 终端面板未登录时登录提示布局修正，避免背景与内层样式冲突\n- 终端背景图文件选择器改为自定义样式，与设置页输入框风格统一，并合并上传/来源状态提示"
 }
