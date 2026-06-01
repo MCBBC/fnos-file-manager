@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.4.3.8",
-  "packageFile": "fnos-file-manager.mcbbc-0.4.3.8.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.3.8/fnos-file-manager.mcbbc-0.4.3.8.fpk",
-  "releaseTag": "v0.4.3.8",
+  "version": "0.4.3.9",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.3.9.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.3.9/fnos-file-manager.mcbbc-0.4.3.9.fpk",
+  "releaseTag": "v0.4.3.9",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-01T17:22:15.935Z",
-  "releaseNotes": "- 修复 zip/tar 压缩大文件时进度长时间停在 KB 级（改为按源流读取分块统计已处理字节）"
+  "releasedAt": "2026-06-01T18:32:26.915Z",
+  "releaseNotes": "- 修复快速切换目录/标签/后退时列表或搜索结果可能错乱（浏览与搜索请求竞态、搜索结果绑定标签页）\n- 修复后台任务模式下剪切粘贴失败后剪贴板被提前清空的问题\n- 修复搜索框/地址栏聚焦时 Delete、F2、Ctrl+C/X/V 误触发文件操作；Enter 可在普通目录打开选中项\n- 修复删除/移动/重命名后选中状态未清除；Shift 范围选择锚点与 Windows 资源管理器对齐\n- 回收站与搜索视图下禁用上传/新建/粘贴/剪切，右键菜单与 Ribbon 规则一致\n- 地址栏未改路径时 blur 不再重复导航；视图模式仅影响当前标签；拖放移动恢复确认框"
 }
