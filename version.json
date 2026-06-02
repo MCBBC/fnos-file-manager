@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.4.5.9",
-  "packageFile": "fnos-file-manager.mcbbc-0.4.5.9.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.5.9/fnos-file-manager.mcbbc-0.4.5.9.fpk",
-  "releaseTag": "v0.4.5.9",
+  "version": "0.4.7.5",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.7.5.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.7.5/fnos-file-manager.mcbbc-0.4.7.5.fpk",
+  "releaseTag": "v0.4.7.5",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-02T09:11:22.124Z",
-  "releaseNotes": "- 移除了顶部的主题切换栏，在设置里面切换"
+  "releasedAt": "2026-06-02T15:48:20.798Z",
+  "releaseNotes": "- 添加了Mac风格主题皮肤"
 }
