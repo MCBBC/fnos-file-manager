@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.4.4.1",
-  "packageFile": "fnos-file-manager.mcbbc-0.4.4.1.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.4.1/fnos-file-manager.mcbbc-0.4.4.1.fpk",
-  "releaseTag": "v0.4.4.1",
+  "version": "0.4.4.6",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.4.6.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.4.6/fnos-file-manager.mcbbc-0.4.4.6.fpk",
+  "releaseTag": "v0.4.4.6",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-01T19:48:28.966Z",
-  "releaseNotes": "- 右键菜单模拟器启动项收至「模拟器」二级子菜单，可在设置中单独调整顺序\n- 搜索当前文件夹新增搜索按钮与加载反馈（按钮动画、列表骨架屏、状态栏文案）；服务端搜索异步递归并定期让出事件循环，大目录不易长时间无响应\n- 模拟器设置页「EmulatorJS GitHub Releases」改为可点击链接，指向 https://github.com/EmulatorJS/EmulatorJS/releases\n- 设置 SSH 终端未登录或未就绪时显示登录占位，修复未登录状态下设置页样式错乱\n- SSH 终端面板未登录时登录提示布局修正，避免背景与内层样式冲突\n- 终端背景图文件选择器改为自定义样式，与设置页输入框风格统一，并合并上传/来源状态提示"
+  "releasedAt": "2026-06-02T04:06:11.516Z",
+  "releaseNotes": "- 优化上传对话框提示信息\n- 多选/取消选择与拖放复制改为 Ctrl（Mac 为 ⌘），避免与浏览器 Alt 行为冲突\n- 新增 Ctrl + A（Mac 为 ⌘ + A）全选当前列表\n- 复制/剪切/粘贴改为 Ctrl + C / X / V（Mac 为 ⌘）；右键菜单顶部增加复制/剪切/粘贴/删除图标快捷栏\n- 文本编辑器保存改为 Ctrl + S（Mac 为 ⌘ + S）\n- 修复「我的文件」「应用文件」内文件夹不跟随鼠标设置的单击/双击；打开上述页面时侧栏驱动器列表为空"
 }
