@@ -1,5 +1,9 @@
 {
   "entries": {
+    "0.4.8.2": [
+      "统一 HTTP 为 /api/{module}/...（壁纸 API 取消简写；ws-credentials、terminal/background、public 路径重命名）",
+      "统一 WebSocket upgrade 为 /api/ws/{endpoint}（main/scan/term/wallpaper/trim-ws-monitor 等），移除 /ws/* 与旧 public *-ws 路径"
+    ],
     "0.4.8.0": [
       "文件夹属性「计算大小」优先使用 Go 引擎并行扫描，失败时自动回退 Node",
       "设置 → 关于「查看更新日志」改为「所有日志」，从远程加载全部版本记录",

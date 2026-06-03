@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.4.8.0",
-  "packageFile": "fnos-file-manager.mcbbc-0.4.8.0.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.8.0/fnos-file-manager.mcbbc-0.4.8.0.fpk",
-  "releaseTag": "v0.4.8.0",
+  "version": "0.4.8.2",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.8.2.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.8.2/fnos-file-manager.mcbbc-0.4.8.2.fpk",
+  "releaseTag": "v0.4.8.2",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-02T22:53:37.220Z",
-  "releaseNotes": "- 文件夹属性「计算大小」优先使用 Go 引擎并行扫描，失败时自动回退 Node\n- 设置 → 关于「查看更新日志」改为「所有日志」，从远程加载全部版本记录\n- 文本编辑器「保存」按钮移至标题栏，位于最大化/关闭按钮左侧\n- 属性对话框标题改为「选中项名称 - 属性」，过长时省略显示\n- 通用模态框标题栏与内容区之间增加 8px 间距，避免内容贴顶"
+  "releasedAt": "2026-06-03T00:42:08.903Z",
+  "releaseNotes": "- 统一 HTTP 为 /api/{module}/...（壁纸 API 取消简写；ws-credentials、terminal/background、public 路径重命名）\n- 统一 WebSocket upgrade 为 /api/ws/{endpoint}（main/scan/term/wallpaper/trim-ws-monitor 等），移除 /ws/* 与旧 public *-ws 路径"
 }
