@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.4.8.2",
-  "packageFile": "fnos-file-manager.mcbbc-0.4.8.2.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.8.2/fnos-file-manager.mcbbc-0.4.8.2.fpk",
-  "releaseTag": "v0.4.8.2",
+  "version": "0.4.8.4",
+  "packageFile": "fnos-file-manager.mcbbc-0.4.8.4.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.4.8.4/fnos-file-manager.mcbbc-0.4.8.4.fpk",
+  "releaseTag": "v0.4.8.4",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-03T00:42:08.903Z",
-  "releaseNotes": "- 统一 HTTP 为 /api/{module}/...（壁纸 API 取消简写；ws-credentials、terminal/background、public 路径重命名）\n- 统一 WebSocket upgrade 为 /api/ws/{endpoint}（main/scan/term/wallpaper/trim-ws-monitor 等），移除 /ws/* 与旧 public *-ws 路径"
+  "releasedAt": "2026-06-03T00:54:36.394Z",
+  "releaseNotes": "- 修复了壁纸注入脚本错误"
 }

@@ -1,5 +1,8 @@
 {
   "entries": {
+    "0.4.8.4": [
+      "修复了壁纸注入脚本错误"
+    ],
     "0.4.8.2": [
       "统一 HTTP 为 /api/{module}/...（壁纸 API 取消简写；ws-credentials、terminal/background、public 路径重命名）",
       "统一 WebSocket upgrade 为 /api/ws/{endpoint}（main/scan/term/wallpaper/trim-ws-monitor 等），移除 /ws/* 与旧 public *-ws 路径"
