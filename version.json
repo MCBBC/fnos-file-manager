@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.5.3.9",
-  "packageFile": "fnos-file-manager.mcbbc-0.5.3.9.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.3.9/fnos-file-manager.mcbbc-0.5.3.9.fpk",
-  "releaseTag": "v0.5.3.9",
+  "version": "0.5.4.0",
+  "packageFile": "fnos-file-manager.mcbbc-0.5.4.0.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.4.0/fnos-file-manager.mcbbc-0.5.4.0.fpk",
+  "releaseTag": "v0.5.4.0",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-05T00:23:34.205Z",
-  "releaseNotes": "- 修复PPT默认模板错误问题"
+  "releasedAt": "2026-06-05T00:29:43.783Z",
+  "releaseNotes": "- 优化了编辑器保存到NAS按钮的位置"
 }
