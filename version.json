@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.5.5.1",
-  "packageFile": "fnos-file-manager.mcbbc-0.5.5.1.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.5.1/fnos-file-manager.mcbbc-0.5.5.1.fpk",
-  "releaseTag": "v0.5.5.1",
+  "version": "0.5.5.2",
+  "packageFile": "fnos-file-manager.mcbbc-0.5.5.2.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.5.2/fnos-file-manager.mcbbc-0.5.5.2.fpk",
+  "releaseTag": "v0.5.5.2",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-05T18:58:13.328Z",
-  "releaseNotes": "- 优化了 ONLYOFFICE 保存目录，选父目录会自动创建 onlyoffice 子文件夹"
+  "releasedAt": "2026-06-05T19:06:53.678Z",
+  "releaseNotes": "- 优化了注入系统错误问题\n- 修复了无法保存到NAS的问题"
 }
