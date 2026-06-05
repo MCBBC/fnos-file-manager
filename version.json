@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.5.4.9",
-  "packageFile": "fnos-file-manager.mcbbc-0.5.4.9.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.4.9/fnos-file-manager.mcbbc-0.5.4.9.fpk",
-  "releaseTag": "v0.5.4.9",
+  "version": "0.5.5.0",
+  "packageFile": "fnos-file-manager.mcbbc-0.5.5.0.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.5.0/fnos-file-manager.mcbbc-0.5.5.0.fpk",
+  "releaseTag": "v0.5.5.0",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-05T01:44:35.521Z",
-  "releaseNotes": "- 隐藏Office一些无法使用的功能"
+  "releasedAt": "2026-06-05T18:54:20.781Z",
+  "releaseNotes": "- 修复了无法保存到NAS的问题\n- 新增了自定义ONLYOFFICE安装目录的功能"
 }
