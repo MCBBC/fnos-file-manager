@@ -3,7 +3,8 @@
   "variant": "public",
   "packageFile": "onlyoffice-v9.3.0.24-1.zip",
   "releaseTag": "onlyoffice-v9.3.0.24-1",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/onlyoffice-v9.3.0.24-1/onlyoffice-v9.3.0.24-1.zip",
-  "sizeBytes": 619589772,
-  "releasedAt": "2026-06-05T00:45:04.121Z"
+  "assetId": "v9.3.0.24-1-cabf13a340ae-1780621348294",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/onlyoffice-v9.3.0.24-1/onlyoffice-v9.3.0.24-1.zip?v=v9.3.0.24-1-cabf13a340ae-1780621348294",
+  "sizeBytes": 619589906,
+  "releasedAt": "2026-06-05T01:02:28.295Z"
 }
