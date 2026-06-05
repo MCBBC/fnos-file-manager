@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.5.4.8",
-  "packageFile": "fnos-file-manager.mcbbc-0.5.4.8.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.4.8/fnos-file-manager.mcbbc-0.5.4.8.fpk",
-  "releaseTag": "v0.5.4.8",
+  "version": "0.5.4.9",
+  "packageFile": "fnos-file-manager.mcbbc-0.5.4.9.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.4.9/fnos-file-manager.mcbbc-0.5.4.9.fpk",
+  "releaseTag": "v0.5.4.9",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-05T01:40:31.411Z",
-  "releaseNotes": "- 修复了一些问题，导致office无法打开"
+  "releasedAt": "2026-06-05T01:44:35.521Z",
+  "releaseNotes": "- 隐藏Office一些无法使用的功能"
 }
