@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.5.3.7",
-  "packageFile": "fnos-file-manager.mcbbc-0.5.3.7.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.3.7/fnos-file-manager.mcbbc-0.5.3.7.fpk",
-  "releaseTag": "v0.5.3.7",
+  "version": "0.5.3.8",
+  "packageFile": "fnos-file-manager.mcbbc-0.5.3.8.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.3.8/fnos-file-manager.mcbbc-0.5.3.8.fpk",
+  "releaseTag": "v0.5.3.8",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-05T00:10:46.721Z",
-  "releaseNotes": "- 修复画廊视图在黑暗模式下的样式问题\n- 修复分栏操作文件后不会刷新列表的问题"
+  "releasedAt": "2026-06-05T00:14:26.847Z",
+  "releaseNotes": "- 修复未保存弹窗提示被编辑器覆盖问题"
 }
