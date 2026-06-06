@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.6.2.3",
-  "packageFile": "fnos-file-manager.mcbbc-0.6.2.3.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.6.2.3/fnos-file-manager.mcbbc-0.6.2.3.fpk",
-  "releaseTag": "v0.6.2.3",
+  "version": "0.6.2.5",
+  "packageFile": "fnos-file-manager.mcbbc-0.6.2.5.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.6.2.5/fnos-file-manager.mcbbc-0.6.2.5.fpk",
+  "releaseTag": "v0.6.2.5",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-06T20:39:50.477Z",
-  "releaseNotes": "- 主应用样式管线升级至 Tailwind CSS v4，移除 v3 双管线\n- 移除了媒体库功能\n- 新增了数据库优化功能"
+  "releasedAt": "2026-06-06T22:59:48.375Z",
+  "releaseNotes": "- 本地歌曲的歌词改为了聚合平台来源：QQ音乐、网易云音乐、酷狗音乐、LRCLIB等"
 }
