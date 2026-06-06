@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.6.1.4",
-  "packageFile": "fnos-file-manager.mcbbc-0.6.1.4.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.6.1.4/fnos-file-manager.mcbbc-0.6.1.4.fpk",
-  "releaseTag": "v0.6.1.4",
+  "version": "0.6.2.3",
+  "packageFile": "fnos-file-manager.mcbbc-0.6.2.3.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.6.2.3/fnos-file-manager.mcbbc-0.6.2.3.fpk",
+  "releaseTag": "v0.6.2.3",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-06T08:31:39.838Z",
-  "releaseNotes": "- 优化了音乐播放器小控制台的样式和浮动歌词的样式"
+  "releasedAt": "2026-06-06T20:39:50.477Z",
+  "releaseNotes": "- 主应用样式管线升级至 Tailwind CSS v4，移除 v3 双管线\n- 移除了媒体库功能\n- 新增了数据库优化功能"
 }
