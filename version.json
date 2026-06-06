@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.5.5.2",
-  "packageFile": "fnos-file-manager.mcbbc-0.5.5.2.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.5.2/fnos-file-manager.mcbbc-0.5.5.2.fpk",
-  "releaseTag": "v0.5.5.2",
+  "version": "0.5.9.8",
+  "packageFile": "fnos-file-manager.mcbbc-0.5.9.8.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.5.9.8/fnos-file-manager.mcbbc-0.5.9.8.fpk",
+  "releaseTag": "v0.5.9.8",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-05T19:06:53.678Z",
-  "releaseNotes": "- 优化了注入系统错误问题\n- 修复了无法保存到NAS的问题"
+  "releasedAt": "2026-06-06T05:58:25.579Z",
+  "releaseNotes": "- 添加了黑暗模式半透明磨砂风格"
 }
