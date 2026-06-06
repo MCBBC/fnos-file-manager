@@ -1,11 +1,11 @@
 {
   "appName": "fnos-file-manager.mcbbc",
   "displayName": "资源管理器",
-  "version": "0.6.2.5",
-  "packageFile": "fnos-file-manager.mcbbc-0.6.2.5.fpk",
-  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.6.2.5/fnos-file-manager.mcbbc-0.6.2.5.fpk",
-  "releaseTag": "v0.6.2.5",
+  "version": "0.6.2.9",
+  "packageFile": "fnos-file-manager.mcbbc-0.6.2.9.fpk",
+  "downloadUrl": "https://github.com/MCBBC/fnos-file-manager/releases/download/v0.6.2.9/fnos-file-manager.mcbbc-0.6.2.9.fpk",
+  "releaseTag": "v0.6.2.9",
   "repository": "https://github.com/MCBBC/fnos-file-manager",
-  "releasedAt": "2026-06-06T22:59:48.375Z",
-  "releaseNotes": "- 本地歌曲的歌词改为了聚合平台来源：QQ音乐、网易云音乐、酷狗音乐、LRCLIB等"
+  "releasedAt": "2026-06-06T23:42:52.474Z",
+  "releaseNotes": "- 优化了歌词搜索格式，更加准确"
 }
